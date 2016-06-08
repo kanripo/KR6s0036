@@ -1,20 +1,19 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-31 00:08:00.294316
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 14:58
 #+TITLE: 文殊師利菩薩無相十禮
 #+PROPERTY: CBETA_ID T85n2844
 #+PROPERTY: ID KR6s0036
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 85, No. 2844
 #+PROPERTY: VOL 85
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6s0036_T_000-1296b>¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6s0036_T_001-1296b> ¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.2844¶
-
- 文殊師利菩薩無相十禮¶
+No. 2844¶
+文殊師利菩薩無相十禮¶
 ¶
 
 清涼山中大聖文殊師利菩薩。端坐政看心。¶
